@@ -1,5 +1,5 @@
 ### [Back to home page](../Home.en.md)
 
-# the introduction of Jokembly
+# The introduction of Jokembly
 
 ## Catalog
