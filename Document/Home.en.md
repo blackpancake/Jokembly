@@ -1,6 +1,6 @@
 # Home
 
-简体中文 | [English](./Home.en.md)
+[简体中文](./Home.md) | English
 
 Welcome to the documentation for **Jokembbly-lang**!
 
