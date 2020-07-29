@@ -1,4 +1,4 @@
-### [Back to home page](../Home.en.md)
+### [Back to home page](../Home.md)
 
 # How to install Jokembly
 
