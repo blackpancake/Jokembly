@@ -9,6 +9,5 @@ Welcome to the documentation for **Jokembly-lang**!
 ## 导航
 
 - **逐步入门**
-  - [Jokembly简介](./Chinese/Introduction.md)
   - [Jokembly安装](./Chinese/Install.md)
 - **命令大全**
