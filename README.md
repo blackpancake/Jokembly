@@ -1,4 +1,4 @@
-# Jokembly
+# Jokembly 笑话汇编
 
 English | [简体中文](./README.zh.md)
 
