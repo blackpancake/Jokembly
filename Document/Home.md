@@ -9,6 +9,5 @@ Welcome to the documentation for **Jokembly-lang**!
 ## Navigation
 
 - **Step by step**
-  - [The Introduction of Jokembly](./English/Introduction.md)
   - [How to install Jokembly](./English/Install.md)
 - **All commands**
