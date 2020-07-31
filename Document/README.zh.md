@@ -1,6 +1,6 @@
 # Home
 
-简体中文 | [English](./Home.md)
+简体中文 | [English](./README.md)
 
 Welcome to the documentation for **Jokembly-lang**!
 
