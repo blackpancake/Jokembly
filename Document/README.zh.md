@@ -2,8 +2,6 @@
 
 简体中文 | [English](./README.md)
 
-Welcome to the documentation for **Jokembly-lang**!
-
 欢迎来到**Jokembly语言**的文档！
 
 ## 导航
