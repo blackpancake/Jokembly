@@ -1,4 +1,4 @@
-### [返回Home页](../Home.zh.md)
+### [返回Home页](../README.zh.md)
 
 # Jokembly安装
 
